@@ -18,6 +18,7 @@ status-website:
   cname: status.valentinlehmann.de
   # baseUrl: /your-repo-name
   logoUrl: https://github.com/valentinlehmann/status/raw/master/assets/logo.png
+  favicon: https://github.com/valentinlehmann/status/raw/master/assets/logo.png
   name: Status - Valentin Lehmann
   introTitle: "**Status**"
   introMessage: Auf dieser Website kann der Status von verschiedenen Services abgerufen werden.
