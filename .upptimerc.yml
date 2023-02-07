@@ -57,7 +57,7 @@ i18n:
   ms: ms
   loading: Lädt...
   navGitHub: GitHub
-  footer:
+  footer: Status-Seite von Valentin Lehmann
   rateLimitExceededTitle: Anfragen-Limit überschritten
   rateLimitExceededIntro: Du hast die Website innerhalb der letzten Stunde zu oft besucht. Bitte warte etwas vor dem nächsten Versuch!
   rateLimitExceededWhatDoesErrorMean: Was bedeutet dieser Fehler?
