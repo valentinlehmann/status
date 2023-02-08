@@ -28,64 +28,64 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-#i18n:
-#  activeIncidents: Aktive Vorfälle
-#  allSystemsOperational: Alle Systeme laufen wie gewohnt
-#  incidentReport: "Bericht über Vorfall #$NUMBER →"
-#  activeIncidentSummary: Am $DATE geöffnet, $POSTS Posts
-#  incidentTitle: Details über Vorfall $NUMBER
-#  incidentDetails: Vorfall Details
-#  incidentFixed: Behoben
-#  incidentOngoing: Andauernd
-#  incidentOpenedAt: Geöffnet um
-#  incidentClosedAt: Geschlossen um
-#  incidentViewOnGitHub: Auf GitHub anschauen und abonnieren
-#  incidentCommentSummary: Am $DATE von $AUTHOR gepostet
-#  incidentBack: ← Zurück zu allen Vorfällen
-#  pastIncidents: Vergangene Vorfälle
-#  pastIncidentsResolved: In $MINUTES Minuten mit $POSTS Posts behoben
-#  liveStatus: Live Status
-#  overallUptime: "Insgesamte Uptime: $UPTIME"
-#  overallUptimeTitle: Insgesamte uptime
-#  averageResponseTime: "Durchschnittliche Antwortzeit: $TIMEms"
-#  averageResponseTimeTitle: Durchschnittliche Antwortzeit
-#  sevelDayResponseTime: Durchschnittliche Antwortzeit der letzten 7 Tage
-#  responseTimeMs: Antwortzeit (ms)
-#  up: Erreichbar
-#  down: Nicht erreichbar
-#  degraded: Verschlechterte Performance
-#  ms: ms
-#  loading: Lädt...
-#  navGitHub: GitHub
-#  footer: Status-Seite von Valentin Lehmann
-#  rateLimitExceededTitle: Anfragen-Limit überschritten
-#  rateLimitExceededIntro: Du hast die Website innerhalb der letzten Stunde zu oft besucht. Bitte warte etwas vor dem nächsten Versuch!
-#  rateLimitExceededWhatDoesErrorMean: Was bedeutet dieser Fehler?
-#  rateLimitExceededErrorMeaning: Diese Website benutzt die GitHub-API zum Bearbeiten der Anfrage. Diese erlaubt standardmäßig nur 60 Anfragen pro Stunde.
-#  rateLimitExceededErrorHowCanFix: Wie kann ich ihn beheben?
-#  rateLimitExceededErrorFix: Hier hilft nichts außer warten, außer du erstellst einen Personal Access Token.
-#  rateLimitExceededGeneratePAT: So erstellst du einen Personal Access Token
-#  rateLimitExceededHasSet: Du hast deinen PAT gesetzt.
-#  rateLimitExceededRemoveToken: Token entfernen
-#  rateLimitExceededGitHubPAT: GitHub Personal Access Token
-#  rateLimitExceededCopyPastePAT: Kopiere deinen Token und füge ihn ein
-#  rateLimitExceededSaveToken: Token speichern
-#  errorTitle: Es ist ein Fehler aufgetreten
-#  errorIntro: Es ist ein Fehler aufgetreten, während die aktuellen Status-Meldungen abgerufen wurden.
-#  errorText: Bitte versuche es in wenigen Sekunden erneut!
-#  errorHome: Zurück zur Startseite
-#  pastScheduledMaintenance: Vergangene Wartungsarbeiten
-#  scheduledMaintenance: Wartungsarbeiten
-#  scheduledMaintenanceSummaryStarted: Am $DATE für $DURATION Minuten gestartet
-#  scheduledMaintenanceSummaryStarts: Startet am $DATE für $DURATION Minuten
-#  startedAt: Gestartet um
-#  startsAt: Startet um
-#  duration: Dauer
-#  durationMin: $DURATION Minuten
-#  incidentCompleted: Abgeschlossen
-#  incidentScheduled: Geplant
-#  duration24H: 24H
-#  duration7D: 7T
-#  duration30D: 30T
-#  duration1Y: 1J
-#  durationAll: Alles
+i18n:
+  activeIncidents: Aktive Vorfälle
+  allSystemsOperational: Alle Systeme laufen wie gewohnt
+  incidentReport: "Bericht über Vorfall #$NUMBER →"
+  activeIncidentSummary: Am $DATE geöffnet, $POSTS Posts
+  incidentTitle: Details über Vorfall $NUMBER
+  incidentDetails: Vorfall Details
+  incidentFixed: Behoben
+  incidentOngoing: Andauernd
+  incidentOpenedAt: Geöffnet um
+  incidentClosedAt: Geschlossen um
+  incidentViewOnGitHub: Auf GitHub anschauen und abonnieren
+  incidentCommentSummary: Am $DATE von $AUTHOR gepostet
+  incidentBack: ← Zurück zu allen Vorfällen
+  pastIncidents: Vergangene Vorfälle
+  pastIncidentsResolved: In $MINUTES Minuten mit $POSTS Posts behoben
+  liveStatus: Live Status
+  overallUptime: "Insgesamte Uptime: $UPTIME"
+  overallUptimeTitle: Insgesamte uptime
+  averageResponseTime: "Durchschnittliche Antwortzeit: $TIMEms"
+  averageResponseTimeTitle: Durchschnittliche Antwortzeit
+  sevelDayResponseTime: Durchschnittliche Antwortzeit der letzten 7 Tage
+  responseTimeMs: Antwortzeit (ms)
+  up: Erreichbar
+  down: Nicht erreichbar
+  degraded: Verschlechterte Performance
+  ms: ms
+  loading: Lädt...
+  navGitHub: GitHub
+  footer: Status-Seite von Valentin Lehmann
+  rateLimitExceededTitle: Anfragen-Limit überschritten
+  rateLimitExceededIntro: Du hast die Website innerhalb der letzten Stunde zu oft besucht. Bitte warte etwas vor dem nächsten Versuch!
+  rateLimitExceededWhatDoesErrorMean: Was bedeutet dieser Fehler?
+  rateLimitExceededErrorMeaning: Diese Website benutzt die GitHub-API zum Bearbeiten der Anfrage. Diese erlaubt standardmäßig nur 60 Anfragen pro Stunde.
+  rateLimitExceededErrorHowCanFix: Wie kann ich ihn beheben?
+  rateLimitExceededErrorFix: Hier hilft nichts außer warten, außer du erstellst einen Personal Access Token.
+  rateLimitExceededGeneratePAT: So erstellst du einen Personal Access Token
+  rateLimitExceededHasSet: Du hast deinen PAT gesetzt.
+  rateLimitExceededRemoveToken: Token entfernen
+  rateLimitExceededGitHubPAT: GitHub Personal Access Token
+  rateLimitExceededCopyPastePAT: Kopiere deinen Token und füge ihn ein
+  rateLimitExceededSaveToken: Token speichern
+  errorTitle: Es ist ein Fehler aufgetreten
+  errorIntro: Es ist ein Fehler aufgetreten, während die aktuellen Status-Meldungen abgerufen wurden.
+  errorText: Bitte versuche es in wenigen Sekunden erneut!
+  errorHome: Zurück zur Startseite
+  pastScheduledMaintenance: Vergangene Wartungsarbeiten
+  scheduledMaintenance: Wartungsarbeiten
+  scheduledMaintenanceSummaryStarted: Am $DATE für $DURATION Minuten gestartet
+  scheduledMaintenanceSummaryStarts: Startet am $DATE für $DURATION Minuten
+  startedAt: Gestartet um
+  startsAt: Startet um
+  duration: Dauer
+  durationMin: $DURATION Minuten
+  incidentCompleted: Abgeschlossen
+  incidentScheduled: Geplant
+  duration24H: 24H
+  duration7D: 7T
+  duration30D: 30T
+  duration1Y: 1J
+  durationAll: Alles
