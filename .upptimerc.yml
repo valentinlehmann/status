@@ -46,7 +46,7 @@ i18n:
   pastIncidentsResolved: In $MINUTES Minuten mit $POSTS Posts behoben
   liveStatus: Live Status
   overallUptime: "Insgesamte Uptime: $UPTIME"
-  overallUptimeTitle: Insgesamte uptime
+  overallUptimeTitle: Insgesamte Uptime
   averageResponseTime: "Durchschnittliche Antwortzeit: $TIMEms"
   averageResponseTimeTitle: Durchschnittliche Antwortzeit
   sevelDayResponseTime: Durchschnittliche Antwortzeit der letzten 7 Tage
