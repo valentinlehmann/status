@@ -22,17 +22,19 @@
     "url": "https://prm-backend.valentinlehmann.de",
     "icon": "https://prm-app.valentinlehmann.de/kopflogo.ico",
     "slug": "prm-app-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 566,
-    "timeDay": 714,
-    "timeWeek": 618,
-    "timeMonth": 566,
-    "timeYear": 566,
-    "dailyMinutesDown": {}
+    "time": 563,
+    "timeDay": 599,
+    "timeWeek": 602,
+    "timeMonth": 563,
+    "timeYear": 563,
+    "dailyMinutesDown": {
+      "2023-03-03": 0
+    }
   }
 ]
