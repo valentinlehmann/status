@@ -4,19 +4,19 @@
     "url": "https://prm-app.valentinlehmann.de",
     "icon": "https://icons.duckduckgo.com/ip3/prm-app.valentinlehmann.de.ico",
     "slug": "prm-app",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 214,
-    "timeDay": 727,
-    "timeWeek": 310,
-    "timeMonth": 224,
+    "timeDay": 567,
+    "timeWeek": 303,
+    "timeMonth": 225,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2024-01-17": 2
+      "2024-01-17": 18
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 473,
     "timeYear": 546,
     "dailyMinutesDown": {
-      "2024-01-17": 1316,
+      "2024-01-17": 1334,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
