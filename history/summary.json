@@ -4,7 +4,7 @@
     "url": "https://prm-app.valentinlehmann.de",
     "icon": "https://icons.duckduckgo.com/ip3/prm-app.valentinlehmann.de.ico",
     "slug": "prm-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,25 +15,28 @@
     "timeWeek": 174,
     "timeMonth": 193,
     "timeYear": 246,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-27": 0
+    }
   },
   {
     "name": "PRM-App Backend",
     "url": "https://prm-backend.valentinlehmann.de",
     "icon": "https://prm-app.valentinlehmann.de/kopflogo.ico",
     "slug": "prm-app-backend",
-    "status": "up",
-    "uptime": "32.81%",
+    "status": "down",
+    "uptime": "32.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "48.88%",
+    "uptimeYear": "49.10%",
     "time": 372,
     "timeDay": 312,
     "timeWeek": 239,
     "timeMonth": 217,
     "timeYear": 372,
     "dailyMinutesDown": {
+      "2025-07-27": 0,
       "2025-01-29": 952,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
