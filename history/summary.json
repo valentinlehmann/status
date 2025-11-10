@@ -11,9 +11,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
     "time": 243,
-    "timeDay": 199,
-    "timeWeek": 231,
-    "timeMonth": 293,
+    "timeDay": 186,
+    "timeWeek": 217,
+    "timeMonth": 294,
     "timeYear": 250,
     "dailyMinutesDown": {
       "2025-10-19": 34,
@@ -33,15 +33,15 @@
     "icon": "https://prm-app.valentinlehmann.de/kopflogo.ico",
     "slug": "prm-app-backend",
     "status": "up",
-    "uptime": "39.80%",
+    "uptime": "39.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "77.56%",
+    "uptimeYear": "77.83%",
     "time": 321,
-    "timeDay": 102,
-    "timeWeek": 185,
-    "timeMonth": 200,
+    "timeDay": 227,
+    "timeWeek": 196,
+    "timeMonth": 201,
     "timeYear": 289,
     "dailyMinutesDown": {
       "2025-10-19": 34,
@@ -132,8 +132,7 @@
       "2024-11-14": 1440,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
-      "2024-11-11": 1440,
-      "2024-11-10": 1440
+      "2024-11-11": 1440
     }
   }
 ]
