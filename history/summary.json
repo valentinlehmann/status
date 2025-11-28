@@ -6,9 +6,9 @@
     "slug": "prm-app",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 244,
     "timeDay": 219,
@@ -16,7 +16,6 @@
     "timeMonth": 213,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2025-11-27": 6,
       "2025-10-19": 34,
       "2025-09-05": 22,
       "2025-09-04": 64,
@@ -35,17 +34,16 @@
     "slug": "prm-app-backend",
     "status": "up",
     "uptime": "40.91%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "82.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "82.76%",
     "time": 315,
     "timeDay": 201,
     "timeWeek": 232,
     "timeMonth": 210,
     "timeYear": 285,
     "dailyMinutesDown": {
-      "2025-11-27": 6,
       "2025-10-19": 34,
       "2025-09-05": 22,
       "2025-09-04": 64,
@@ -116,8 +114,7 @@
       "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
-      "2024-11-29": 1440,
-      "2024-11-28": 1440
+      "2024-11-29": 1440
     }
   }
 ]
