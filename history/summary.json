@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/prm-app.valentinlehmann.de.ico",
     "slug": "prm-app",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
-    "time": 231,
-    "timeDay": 153,
-    "timeWeek": 240,
-    "timeMonth": 243,
+    "uptime": "99.97%",
+    "uptimeDay": "85.59%",
+    "uptimeWeek": "97.94%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.88%",
+    "time": 230,
+    "timeDay": 52,
+    "timeWeek": 221,
+    "timeMonth": 240,
     "timeYear": 239,
     "dailyMinutesDown": {
       "2025-08-26": 50,
@@ -25,7 +25,8 @@
       "2025-09-04": 64,
       "2025-09-05": 22,
       "2025-10-19": 34,
-      "2026-08-18": 0
+      "2026-08-19": 61,
+      "2026-08-18": 147
     }
   },
   {
@@ -34,15 +35,15 @@
     "icon": "https://prm-app.valentinlehmann.de/kopflogo.ico",
     "slug": "prm-app-backend",
     "status": "down",
-    "uptime": "53.02%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
+    "uptime": "53.01%",
+    "uptimeDay": "85.60%",
+    "uptimeWeek": "97.94%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.89%",
     "time": 238,
-    "timeDay": 169,
-    "timeWeek": 212,
-    "timeMonth": 256,
+    "timeDay": 72,
+    "timeWeek": 193,
+    "timeMonth": 254,
     "timeYear": 250,
     "dailyMinutesDown": {
       "2025-08-26": 50,
@@ -54,7 +55,8 @@
       "2025-09-04": 64,
       "2025-09-05": 22,
       "2025-10-19": 34,
-      "2026-08-18": 0
+      "2026-08-19": 61,
+      "2026-08-18": 146
     }
   }
 ]
